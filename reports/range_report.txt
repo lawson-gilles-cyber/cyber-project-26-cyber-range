@@ -1,0 +1,12 @@
+CYBER RANGE REPORT
+
+Attack:
+- Brute force
+- Data access
+
+Defense:
+- Detection triggered
+- Attack mitigated
+
+Outcome:
+System protected
